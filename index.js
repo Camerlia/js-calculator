@@ -36,7 +36,7 @@ function performOperation(operator) {
       return;
   }
 
-  resultDisplay.textContent = `Result: ${result.toFixed(2)}`;
+  resultDisplay.textContent = `Result: ${result}`;
   
 }
 
